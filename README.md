@@ -1,4 +1,4 @@
 # hackathon-project
 ---
-permalink: /index.html
+permalink: /myBalance.html
 ---
